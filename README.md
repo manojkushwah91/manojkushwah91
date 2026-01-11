@@ -38,12 +38,6 @@ A cloud-native e-commerce platform backend for product management and ordering.
 - **Key Feature:** Distributed microservices architecture for high availability.
 
 ---
-
-### 📊 GitHub Stats
-[Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkushwah91&show_icons=true&theme=radical)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkushwah91&layout=compact&theme=radical)
-
----
 <div align="center">
   <a href="https://linkedin.com/in/manojkushwah871" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
