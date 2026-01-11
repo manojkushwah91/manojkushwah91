@@ -22,15 +22,20 @@ I am a passionate Backend Developer based in **Bhopal, India**, currently pursui
 
 ### 🚀 Featured Projects
 
-#### 🏦 **[MicroMart (Digital Wallet & E-Commerce)](https://github.com/manojkushwah91/MicroMart)**
-A secure backend for a digital payment and e-commerce platform.
+#### 💳 **[MicroPay (Digital Wallet)](https://github.com/manojkushwah91/MicroPay)**
+A scalable fintech backend for managing digital wallets and peer-to-peer transactions.
 - **Tech:** Java, Spring Boot, PostgreSQL, Kafka, JWT.
-- **Key Feature:** Implemented event-driven architecture using Kafka for transaction notifications.
+- **Key Feature:** Secure fund transfers with event-driven transaction processing.
 
 #### 🚖 **[RideShare (Booking Platform)](https://github.com/manojkushwah91/ride-sharing-platform)**
 A ride-booking backend service managing users, drivers, and trip data.
 - **Tech:** Java, Spring Boot, MySQL, Docker, REST APIs.
 - **Key Feature:** Containerized implementation using Docker for seamless deployment.
+
+#### 🛒 **[MicroMart (E-Commerce)](https://github.com/manojkushwah91/MicroMart)**
+A cloud-native e-commerce platform backend for product management and ordering.
+- **Tech:** Java, Spring Boot, Microservices, API Gateway.
+- **Key Feature:** Distributed microservices architecture for high availability.
 
 ---
 
