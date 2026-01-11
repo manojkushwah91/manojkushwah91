@@ -22,12 +22,12 @@ I am a passionate Backend Developer based in **Bhopal, India**, currently pursui
 
 ### 🚀 Featured Projects
 
-#### 🏦 **[MicroPAY (Digital Wallet)](https://github.com/manojkushwah91/micropay)**
-A secure backend for a digital payment system handling user wallets and transactions.
+#### 🏦 **[MicroMart (Digital Wallet & E-Commerce)](https://github.com/manojkushwah91/MicroMart)**
+A secure backend for a digital payment and e-commerce platform.
 - **Tech:** Java, Spring Boot, PostgreSQL, Kafka, JWT.
 - **Key Feature:** Implemented event-driven architecture using Kafka for transaction notifications.
 
-#### 🚖 **[RideShare (Booking Platform)](https://github.com/manojkushwah91/rideshare)**
+#### 🚖 **[RideShare (Booking Platform)](https://github.com/manojkushwah91/ride-sharing-platform)**
 A ride-booking backend service managing users, drivers, and trip data.
 - **Tech:** Java, Spring Boot, MySQL, Docker, REST APIs.
 - **Key Feature:** Containerized implementation using Docker for seamless deployment.
@@ -35,10 +35,9 @@ A ride-booking backend service managing users, drivers, and trip data.
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkushwah91&show_icons=true&theme=radical" alt="Manoj's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkushwah91&layout=compact&theme=radical" alt="Top Languages" width="45%" />
-</p>
+![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkushwah91&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkushwah91&layout=compact&theme=radical)
+
 ---
 <div align="center">
   <a href="https://linkedin.com/in/manojkushwah871" target="_blank">
