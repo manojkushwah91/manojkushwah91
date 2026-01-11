@@ -13,10 +13,10 @@ I am a passionate Backend Developer based in **Bhopal, India**, currently pursui
 ### 🛠️ Tech Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot&logoColor=6DB33F) ![Microservices](https://img.shields.io/badge/Microservices-grey?style=flat&logo=serverless&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) |
-| **Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
-| **Cloud & Tools** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
+| **Backend** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot&logoColor=6DB33F" /> <img src="https://img.shields.io/badge/Microservices-grey?style=flat&logo=serverless&logoColor=white" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" /> |
+| **Databases** | <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" /> |
+| **Cloud & Tools** | <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" /> |
 
 ---
 
@@ -40,8 +40,10 @@ A cloud-native e-commerce platform backend for product management and ordering.
 ---
 
 ### 📊 GitHub Stats
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkushwah91&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkushwah91&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojkushwah91&show_icons=true&theme=radical" width="45%" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkushwah91&layout=compact&theme=radical" width="45%" alt="Top Languages" />
+</p>
 
 ---
 <div align="center">
