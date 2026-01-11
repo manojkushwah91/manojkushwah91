@@ -40,8 +40,8 @@ A cloud-native e-commerce platform backend for product management and ordering.
 ---
 
 ### 📊 GitHub Stats
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkushwah91&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkushwah91&layout=compact&theme=radical)
+[Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkushwah91&show_icons=true&theme=radical)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkushwah91&layout=compact&theme=radical)
 
 ---
 <div align="center">
