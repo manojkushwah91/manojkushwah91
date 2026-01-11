@@ -35,9 +35,10 @@ A ride-booking backend service managing users, drivers, and trip data.
 ---
 
 ### 📊 GitHub Stats
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojkushwah91&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkushwah91&layout=compact&theme=radical)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojkushwah91&show_icons=true&theme=radical" alt="Manoj's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkushwah91&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</p>
 ---
 <div align="center">
   <a href="https://linkedin.com/in/manojkushwah871" target="_blank">
