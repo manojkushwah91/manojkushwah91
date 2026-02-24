@@ -65,5 +65,5 @@ I enjoy working close to the system core — designing clean APIs, ensuring data
 * **Collaborate on:** Open-source Distributed Systems projects
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkushwah91) 
 📫 **Email:** [manojkushwah91115@gmail.com](mailto:manojkushwah91115@gmail.com)
